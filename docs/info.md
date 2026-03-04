@@ -9,13 +9,17 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works. Using AND, XOR, NAND
+Explain how your project works. 
+
+Using AND, XOR, NAND
 
 ## How to test
 
-Explain how to use your project
-input abc
+nput a b c and 1 or 0 11 00 01 10
+
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any. None
+List external hardware used in your project (e.g. PMOD, LED display, etc), if any.
+none
+N/A
