@@ -22,8 +22,8 @@ pinout:
   ui[3]: "not4_IN"
   ui[4]: ""
   ui[5]: ""
-  ui[6]: "or1_A", "and1_A"
-  ui[7]: "or1_B", "and1_B"
+  ui[6]: "or1_A___and1_A"
+  ui[7]: "or1_B____and1_B"
 
   # Outputs
   uo[0]: "nand1_OUT"
