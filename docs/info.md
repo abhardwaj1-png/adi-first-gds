@@ -14,7 +14,7 @@ Explain how your project works. Using AND, XOR, NAND
 ## How to test
 
 Explain how to use your project
-imput abc
+input abc
 
 ## External hardware
 
