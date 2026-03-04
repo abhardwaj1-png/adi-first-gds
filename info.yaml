@@ -16,24 +16,24 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "nand1 :A"
-  ui[1]: "nand1 :B"
-  ui[2]: "not3:IN"
-  ui[3]: "not4:IN"
+  ui[0]: "nand1_A"
+  ui[1]: "nand1_B"
+  ui[2]: "not3_IN"
+  ui[3]: "not4_IN"
   ui[4]: ""
   ui[5]: ""
-  ui[6]: "or1:A", "and1:A"
-  ui[7]: "or1:B", "and1:B"
+  ui[6]: "or1_A", "and1_A"
+  ui[7]: "or1_B", "and1_B"
 
   # Outputs
-  uo[0]: "nand1 :OUT"
-  uo[1]: "nand1 :OUT"
-  uo[2]: "not3:OUT"
-  uo[3]: "not4:OUT"
+  uo[0]: "nand1_OUT"
+  uo[1]: "nand1_OUT"
+  uo[2]: "not3_OUT"
+  uo[3]: "not4_OUT"
   uo[4]: ""
   uo[5]: ""
-  uo[6]: "and1 :OUT"
-  uo[7]: "or1 :OUT"
+  uo[6]: "and1_OUT"
+  uo[7]: "or1 _OUT"
 
   # Bidirectional pins
   uio[0]: ""
