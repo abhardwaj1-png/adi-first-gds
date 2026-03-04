@@ -14,11 +14,7 @@ Explain how your project works. Using AND, XOR, NAND
 ## How to test
 
 Explain how to use your project
-input a and b,output AND,output NAND,output OR
-0 0,0,1,0
-0 1,0,1,1
-1 0,0,1,1
-1 1,1,0,1
+imput abc
 
 ## External hardware
 
